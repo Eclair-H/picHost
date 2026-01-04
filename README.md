@@ -1,2 +1,2 @@
 # picHost
-typora图床文件
+typora图床
